@@ -1,6 +1,9 @@
-streamlit>=1.33
-pandas>=2.0
-numpy>=1.24
-scikit-learn>=1.3
-joblib>=1.3
-pyarrow>=15.0
+What the app does
+
+Expected inputs (cluster + composition)
+
+How predictions are generated
+
+Which files are required/optional
+
+Example screenshots
